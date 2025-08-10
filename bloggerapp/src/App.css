@@ -1,0 +1,24 @@
+.container{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.course-details {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.book-details {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.blog-details {
+    background-color: #fff3e0;
+    padding: 20px;
+    border-radius: 8px;
+}
